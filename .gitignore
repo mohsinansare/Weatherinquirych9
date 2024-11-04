@@ -9,7 +9,7 @@ dist/
 build/
 
 # Ignore environment variable files
-.env
+
 
 # Ignore OS-specific files
 .DS_Store
