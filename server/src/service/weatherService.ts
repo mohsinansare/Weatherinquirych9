@@ -63,7 +63,7 @@ class WeatherService {
       currentWeather.weather[0].description,
       currentWeather.main.temp,
       currentWeather.wind.speed,
-      currentWeather.main.humidity
+      Math.round(currentWeather.main.humidity) // Round humidity to a whole number
     );
   }
 
