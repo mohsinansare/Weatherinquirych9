@@ -19,7 +19,7 @@ To install the necessary dependencies, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pink727/weather-dashboard.git
+    git clone [https://github.com/Pink727/Weather_Dashboard.git]
     ```
 2. Navigate to the project directory:
     ```bash
