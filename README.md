@@ -9,9 +9,10 @@ The Weather Dashboard is a web application that allows users to search for curre
 ## Table of Contents
 - [Installation](#installation)
 - [Deployment](#deployment)
-- [License](#license)
-- [Questions](#questions)
 - [Contributing](#contributing)
+- [License](#license)
+- [Deployed Page](#deployed-page)
+- [Questions](#questions)
 
 ## Installation
 
@@ -56,6 +57,10 @@ Base files were provided by © 2024 edX Boot Camps
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
+
+## Deployed Page
+![deployed page](img/deployed_page.PNG)
+https://weather-dashboard-atag.onrender.com/
 
 ## Questions
 For any questions, please contact me with the information below:
