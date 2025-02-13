@@ -65,9 +65,9 @@ https://weather-dashboard-atag.onrender.com/
 ## Questions
 For any questions, please contact me with the information below:
 
-GitHub: [Pink727](https://github.com/Pink727)
+GitHub: https://github.com/mohsinansare/Weatherinquirych9
 
-Email: doc72789@gmail.com
+Email: mohsinansare@gmail.com
 
 ____________________________________
 © 2024 Pink727. All Rights Reserved.
