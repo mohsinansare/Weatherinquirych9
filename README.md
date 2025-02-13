@@ -65,7 +65,7 @@ https://weather-dashboard-atag.onrender.com/
 ## Questions
 For any questions, please contact me with the information below:
 
-GitHub: https://github.com/mohsinansare/Weatherinquirych9
+GitHub repository: https://github.com/mohsinansare/Weatherinquirych9
 
 Email: mohsinansare@gmail.com
 
