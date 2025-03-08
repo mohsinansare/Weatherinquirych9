@@ -62,7 +62,6 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ![deployed page](img/deployed_page.PNG)
 https://weather-dashboard-atag.onrender.com/
 
-https://weather.html
 
 ## Questions
 For any questions, please contact me with the information below:
