@@ -60,7 +60,8 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## Deployed Page
 ![deployed page](img/deployed_page.PNG)
-https://weather-dashboard-atag.onrender.com/
+On Listening on PORT: 3001. If the website doesn't deploy then type in chrome localhost:3001.
+The website will be deployed.
 
 
 ## Questions
@@ -69,8 +70,6 @@ For any questions, please contact me with the information below:
 GitHub repository: https://github.com/mohsinansare/Weatherinquirych9
 
 Email: mohsinansare@gmail.com
-
-weather.html
 
 ____________________________________
 © 2024 Pink727. All Rights Reserved.
