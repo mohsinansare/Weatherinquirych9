@@ -20,7 +20,7 @@ To install the necessary dependencies, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Pink727/Weather_Dashboard.git]
+    git clone [https://github.com/mohsinansare/Weatherinquirych9]
     ```
 2. Navigate to the project directory:
     ```bash
@@ -62,12 +62,15 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ![deployed page](img/deployed_page.PNG)
 https://weather-dashboard-atag.onrender.com/
 
+
 ## Questions
 For any questions, please contact me with the information below:
 
-GitHub: [Pink727](https://github.com/Pink727)
+GitHub repository: https://github.com/mohsinansare/Weatherinquirych9
 
-Email: doc72789@gmail.com
+Email: mohsinansare@gmail.com
+
+weather.html
 
 ____________________________________
 © 2024 Pink727. All Rights Reserved.
