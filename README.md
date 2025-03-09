@@ -60,12 +60,13 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## Deployed Page
 ![deployed page](img/deployed_page.PNG)
-On Listening on PORT: 3001. If the website doesn't deploy then type in chrome localhost:3001.
+
+On the command prompt when it says Listening on PORT: 3001. If the website doesn't deploy then type in chrome localhost:3001.
 The website will be deployed.
 
 
 ## Questions
-For any questions, please contact me with the information below:
+For any questions, don't hesitate to get in touch with me with the information below:
 
 GitHub repository: https://github.com/mohsinansare/Weatherinquirych9
 
