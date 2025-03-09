@@ -70,5 +70,7 @@ GitHub repository: https://github.com/mohsinansare/Weatherinquirych9
 
 Email: mohsinansare@gmail.com
 
+Link: https://weather.html
+
 ____________________________________
 © 2024 Pink727. All Rights Reserved.
