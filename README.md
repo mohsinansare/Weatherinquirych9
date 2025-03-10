@@ -89,6 +89,8 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 ## Deployed Page
 ![deployed page](img/deployed_page.PNG)
 
+http://localhost:3001/
+
 On the command prompt when it says Listening on PORT: 3001. If the website doesn't deploy then type in chrome localhost:3001.
 The website will be deployed.
 
